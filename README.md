@@ -1,5 +1,5 @@
-# Endace-PCI-Errors
-Find PCI Errors from a Supermicro IPMI Console
+# Get-PCI-Errors
+Find PCI Errors from an IPMI Console
 
 This script requires an additional file called "auth.py" that contains the variables `ipmi_username`and `ipmi_pwd`
 
